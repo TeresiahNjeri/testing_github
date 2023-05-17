@@ -1,2 +1,2 @@
-for p in range(5):
-  print('A number:', p)
+for c in range(5):
+  print('A number:', c)
